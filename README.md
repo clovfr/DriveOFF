@@ -83,6 +83,7 @@ _ **DriveOFF** is available on the extension stores, but you can also do the ins
 * [x] carrefour.fr
 * [ ] cora.fr
 * [x] intermarche.com
+* [x] walmart.com (*product pages only*)
 * [ ] leclercdrive.fr
 
 ## Contributors
